@@ -33,7 +33,7 @@
   - システム全体の基本設計
   - フロントエンドの詳細設計、実装
 - プロジェクト規模
-  - PJ内PJ：約15名（PM、PMO、バックエンド、フロント、インフラ）、内フロントチーム：3-5人、PJ全体：約150人
+  - PJ内PJ：約15人（PM、PMO、バックエンド、フロント、インフラ）、内フロントチーム：3-5人、PJ全体：約150人
 - 技術
   - フロントエンド
     - Next.js/React/TypeScript/Sass - Css Modules/Storybook/Open API/Prism
